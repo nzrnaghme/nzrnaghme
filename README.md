@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=nzrnaghme&icon=5&color=5)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🌱 I’m currently learning Next js<br><br>👨‍💻 All of my projects are available at https://github.com/nzrnaghme<br><br>💬 Ask me about React, JavaScript & TypeScript, Next, Html5, Css3,React Native<br><br>📫 How to reach me naghmehnzr95@gmail.com
 
@@ -16,6 +18,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nzrnaghme&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
